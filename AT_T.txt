@@ -1,0 +1,7 @@
+---
+RemoteSyslogServer:
+-name: AT & Remote Syslog
+ host: 9.9.9.9
+ port: 5888
+ protocol: TLS
+ ssl_key_chain
